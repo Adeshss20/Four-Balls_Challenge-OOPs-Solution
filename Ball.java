@@ -6,4 +6,8 @@ public class Ball {
         this.diameter = diameter;
         this.c = c;
     }
+    public static void printHello()
+    {
+        System.out.println("Hello!!");
+    }
 }
